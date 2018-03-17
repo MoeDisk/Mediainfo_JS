@@ -1,0 +1,2 @@
+# mediainfojs
+Mediainfo数字视频参数检测工具的Web版本，基于官网JS版lib的Demo修改而来。
